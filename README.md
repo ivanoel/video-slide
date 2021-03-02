@@ -2,6 +2,11 @@
 ## Video Slides
 ### Html - CSS - JS
 
+#### Videos do link abaixo 
+https://www.pexels.com/pt-br/
+
+Fotos recortei no paint tirando printscreen da tela
+
 Um Video Slides simples com HTML - CSS - JavaScript
 
 Como sempre, mantive o estilo no mínimo para você enlouquecer e torná-lo seu.
